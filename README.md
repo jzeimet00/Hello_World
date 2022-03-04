@@ -1,8 +1,14 @@
 # Hello_World
-# Table of contents
+# *Table of contents*
+-PROJECT TITLE
+- Description
+- How to Run Program
+- Files Used
+- Additional Documentation
+- Versioning
 # PROJECT TITLE
-# DESCRIPTION
+# *DESCRIPTION*
 # HOW TO RUN PROGRAM
-# FILES USED
-# *ADDITIONAL DOCUMENTATION*
-# VERSIONING
+# *FILES USED*
+# ADDITIONAL DOCUMENTATION
+# *VERSIONING*
