@@ -1,6 +1,6 @@
 # Hello_World
 # *Table of contents*
--PROJECT TITLE
+- Project Title
 - Description
 - How to Run Program
 - Files Used
